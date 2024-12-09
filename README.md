@@ -1,4 +1,4 @@
-![mainMenu](https://github.com/Erikkre/Quantumscape/blob/master/extraReadmeFiles/mainMenu.gif)\
+README.mdLICENSEExecutable iOS ReleaseextraReadmeFilesExecutable Windows Release![mainMenu](https://github.com/Erikkre/Quantumscape/blob/master/extraReadmeFiles/mainMenu.gif)\
 Roll, jump and slide Schrodinger’s cat through a 1 hour story adventure with 8 distinct quantum gates and portals navigating 16 multi-stage 3D levels designed to educate and enthrall any player. Discover a funny helpful dancing robot, dynamic soundtrack, character voices, progression and settings persistence, branching dialogue options and an engaging set of learn-as-you-go puzzle levels of 4 difficulties.
 # Quick Start Guide
 Open the Windows, Mac, Linux or Android releases, start the game. You will reach the main menu. In the display and graphics settings, lower or raise the presets as required to run smoothly.\
